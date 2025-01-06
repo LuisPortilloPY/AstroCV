@@ -8,8 +8,16 @@ const GlobeComponent = () => {
   const visitedCountries = [
     "Brasil",
     "Argentina",
-    "Japan",
-    "Paraguay",
+    "Japon",
+    "Chile",
+    "Colombia",
+    "Estados Unidos",
+    "Canada",
+    "España",
+    "Kore del Sur",
+    "Rusia",
+    "Finlandia"
+
   ];
 
   onMount(() => {
